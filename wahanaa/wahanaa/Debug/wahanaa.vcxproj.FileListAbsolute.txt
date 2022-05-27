@@ -1,0 +1,5 @@
+C:\Users\my notebook\source\repos\wahanaa\wahanaa\Debug\wahanaa.vcxproj.AssemblyReference.cache
+C:\Users\my notebook\source\repos\wahanaa\wahanaa\Debug\wahanaa.MyForm.resources
+C:\Users\my notebook\source\repos\wahanaa\wahanaa\Debug\wahanaa.vcxproj.GenerateResource.cache
+C:\Users\my notebook\source\repos\wahanaa\wahanaa\Debug\wahanaa.MyForm1.resources
+C:\Users\my notebook\source\repos\wahanaa\wahanaa\Debug\wahanaa.MyForm2.resources
